@@ -18,4 +18,4 @@
 - コードの可読性と再利用性の向上
 
 ## 参考資料
-- **Udemyコース:** [In-depth HTML & CSS Course: Build Responsive Websites](https://www.udemy.com/)
+- **Udemyコース:** [In-depth HTML & CSS Course: Build Responsive Websites](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/?couponCode=KEEPLEARNING)
